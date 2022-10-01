@@ -1,0 +1,11 @@
+{
+  "name": "@noneedinmagic/base-web-monorepo",
+  "version": "0.0.0",
+  "description": "Basic web monorepo for FE+BE by Tron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tron <noneedinmagic@gmail.com>",
+  "license": "UNLICENSED"
+}
